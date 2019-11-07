@@ -1,0 +1,7 @@
+/home/danielc/Descargas/Arquitectura/Laboratorios/Lab6/sa-auth/src/main/java/sa/user/resource/UserResource.java
+/home/danielc/Descargas/Arquitectura/Laboratorios/Lab6/sa-auth/src/main/java/sa/user/service/LdapService.java
+/home/danielc/Descargas/Arquitectura/Laboratorios/Lab6/sa-auth/src/main/java/sa/user/service/UserService.java
+/home/danielc/Descargas/Arquitectura/Laboratorios/Lab6/sa-auth/src/main/java/sa/user/service/AuthResource.java
+/home/danielc/Descargas/Arquitectura/Laboratorios/Lab6/sa-auth/src/main/java/sa/user/service/AuthService.java
+/home/danielc/Descargas/Arquitectura/Laboratorios/Lab6/sa-auth/src/main/java/sa/user/model/User.java
+/home/danielc/Descargas/Arquitectura/Laboratorios/Lab6/sa-auth/src/main/java/sa/user/JAXRSConfiguration.java
